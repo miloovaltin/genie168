@@ -1,16 +1,16 @@
 {
-"name": "genie168",
-"theme": "genie 168",
-"version": "5.1.4",
-"description": "genie 168 ทางเข้าเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
-"keywords": [
-"genie 168",
-"genie 168 เครดิตฟรี",
-"genie 168 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/genie168",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "genie168",
+  "theme": "genie 168",
+  "version": "5.2.0",
+  "description": "genie 168 ทางเข้าเว็บแทงบอลเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+  "keywords": [
+    "genie 168",
+    "genie 168 เครดิตฟรี",
+    "genie 168 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/genie168",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
